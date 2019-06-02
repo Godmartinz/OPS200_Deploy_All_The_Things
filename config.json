@@ -1,7 +1,7 @@
 {
-  "first_app": "",
-  "change_calculator": "",
-  "mortgage_calculator": "",
-  "top_spots": "",
-  "vstda": ""
+  "first_app": "https://enigmatic-springs-72624.herokuapp.com/",
+  "change_calculator": "https://gm-changecalc19.herokuapp.com/",
+  "mortgage_calculator": "https://gm-mortgagecalc19.herokuapp.com/",
+  "top_spots": "https://gm-sdtopspots.herokuapp.com/",
+  "vstda": "https://gm-vstda19.herokuapp.com/"
 }
